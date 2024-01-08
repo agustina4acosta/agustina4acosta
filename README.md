@@ -10,8 +10,6 @@
 - Data Science Student at #UNAB
 - MERN Fullstack developer
 
-## 📫 How to reach me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/agustina-acosta-7b440b1b0)
 
 
 ## 🧰 Tecnologias
