@@ -6,7 +6,7 @@
 </p>
 
 ### 🚀 About me
-- 21 years old
+- 22 years old
 - Data Science Student at #UNAB
 - MERN Fullstack developer
 
