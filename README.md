@@ -97,10 +97,7 @@
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=agustina4acosta&show_icons=true&theme=tokyonight&count_private=true"
     height="165"
   />
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agustina4acosta&layout=compact&theme=tokyonight"
-    height="165"
-  />
+
 </p>
 
 
